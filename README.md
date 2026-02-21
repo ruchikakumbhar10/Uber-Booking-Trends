@@ -1,134 +1,155 @@
 🚖 Uber Booking Trends Analysis
 📌 1. Project Title
 
-Uber Booking Trends: Demand & Ride Pattern Analysis using Excel and Power BI
+# 🚖 Uber Booking Trends Analysis
 
-📖 2. Project Description
+## 📌 Project Overview
 
-This project focuses on analyzing Uber ride booking data to identify booking patterns, peak demand hours, ride distribution, and payment preferences.
+This project analyzes Uber ride booking data to uncover booking patterns, demand fluctuations, cancellation trends, and customer preferences.
 
-The objective was to transform raw ride data into meaningful business insights that can help optimize driver allocation, reduce cancellations, and improve operational efficiency.
+Using **Excel for data cleaning** and **Power BI for interactive visualization**, the project transforms raw ride data into meaningful business insights that support operational decision-making.
 
-Using Excel for data cleaning and preprocessing and Power BI for advanced visualization, the project delivers an interactive dashboard that highlights key booking trends and performance indicators.
+---
 
-🎯 3. Business Problem
+## 🎯 Business Problem
 
-Ride-hailing platforms like Uber experience fluctuating demand throughout the day.
+Ride-hailing platforms experience fluctuating demand throughout the day.  
+Without structured analysis, it becomes difficult to:
 
-Without proper analysis, it becomes difficult to:
+- Identify peak booking hours  
+- Understand ride cancellations  
+- Allocate drivers efficiently  
+- Improve operational performance  
 
-Identify peak booking hours
+This project analyzes ride demand to understand **when bookings surge or drop**, enabling data-driven business decisions.
 
-Understand cancellation trends
+---
 
-Allocate drivers efficiently
+## 📊 Dataset Overview
 
-Optimize operational performance
+- Analyzed **10,000+ Uber ride records**
+- Dataset includes:
+  - Ride ID
+  - Booking Status
+  - Vehicle Type
+  - Pickup Time
+  - Payment Method
+  - Ride Value
+  - Cancellation Details
 
-This project analyzes ride demand to understand when and where bookings surge or drop, helping support data-driven decision-making.
+---
 
-📊 4. Dataset Overview
+## 🧹 Data Cleaning & Preparation (Excel)
 
-Analyzed 10,000+ Uber ride records
+Performed structured data cleaning to ensure accuracy:
 
-Dataset includes:
+- Removed duplicate records  
+- Handled missing/null values  
+- Standardized categorical values  
+- Created structured tables  
+- Used filters for validation  
+- Built Pivot Tables for summary analysis  
 
-Ride ID
+This ensured reliable insights before dashboard creation.
 
-Booking Status
+---
 
-Vehicle Type
+## 📈 Dashboard & Visualization (Power BI)
 
-Pickup Time
+Developed **8+ interactive visuals**, including:
 
-Payment Method
+- KPI Cards (Total Rides, Completed Rides, Cancellations)
+- Booking Status Distribution
+- Vehicle Type Analysis
+- Time-of-Day Booking Trends
+- Payment Method Breakdown
+- Peak Hour Demand Analysis
+- Interactive Slicers for dynamic filtering
 
-Ride Value
+The dashboard allows users to explore booking trends dynamically.
 
-Cancellation Details
+---
 
-🧹 5. Data Cleaning & Preparation (Excel)
+## 🔍 Key Insights
 
-To ensure accurate analysis, the dataset was carefully cleaned using Excel:
+### 🚦 Total Ride Overview
+- Clear breakdown of completed vs canceled rides
+- Identified operational gaps
 
-Removed duplicate records
+### ⏰ Peak Demand Hours
+- 35% higher demand observed during peak time slots
+- Strong surge during evening hours
 
-Handled missing/null values
+### 🚘 Vehicle Preferences
+- Identified most frequently booked vehicle categories
 
-Standardized categorical values
+### 💳 Payment Behavior
+- Majority preference for digital payments
 
-Created structured tables
+### 📉 Cancellation Trends
+- Highlighted ride drop-offs and incomplete bookings
 
-Used filters and sorting for validation
+---
 
-Built Pivot Tables for summary insights
+## 📊 Business Impact
 
-This preprocessing ensured data reliability before visualization in Power BI.
+- Improved understanding of demand fluctuations
+- Enabled better driver allocation strategies
+- Identified areas for operational improvement
+- Supported data-driven planning
 
-📈 6. Dashboard & Visualization (Power BI)
+---
 
-Developed 8+ interactive visuals including:
+## 🛠️ Tools & Technologies
 
-KPI Cards (Total Rides, Completed Rides, Cancellations)
+| Tool     | Purpose                                      |
+|----------|----------------------------------------------|
+| Excel    | Data Cleaning, Pivot Analysis, Preprocessing |
+| Power BI | Data Modeling, Dashboard Creation            |
 
-Booking Status Distribution Chart
+---
 
-Vehicle Type Analysis
+## 🗂️ Project Structure
+Uber-Booking-Trends/
+│
+├── Data/
+│ ├── Raw_Uber_Data.xlsx
+│ ├── Cleaned_Uber_Data.xlsx
+│
+├── Dashboard/
+│ ├── Uber_Dashboard.xlsx
+│ ├── Uber_Dashboard.pbix
+│
+├── Images/
+│ ├── Dashboard_Overview.png
+│ ├── Booking_Trends.png
+│
+└── README.md
 
-Time-of-Day Booking Trends
+---
 
-Payment Method Breakdown
+## 🏗️ Project Workflow
 
-Peak Hour Demand Visualization
+1. Data Collection  
+2. Data Cleaning (Excel)  
+3. Data Validation & Pivot Analysis  
+4. Data Import into Power BI  
+5. Dashboard Development  
+6. Insight Generation  
 
-Interactive Slicers for dynamic filtering
+---
+🚀 Future Improvements
 
-The dashboard allows users to explore ride patterns dynamically.
+Add geographic demand heatmaps
 
-🔍 7. Key Insights
-🚦 1. Total Ride Overview
+Implement demand forecasting model
 
-Clear breakdown of completed vs canceled rides
+Customer segmentation analysis
 
-Identified performance gaps in ride fulfillment
+Automated data refresh pipeline
+---
+👩‍💻 Author
 
-📉 2. Booking Status Trends
-
-Patterns of successful, canceled, and incomplete rides
-
-Highlighted operational inefficiencies
-
-🚘 3. Vehicle Type Analysis
-
-Distribution of rides across vehicle categories
-
-Identified most preferred ride types
-
-⏰ 4. Time of Day Trends
-
-Peak booking hours identified
-
-35% higher demand observed during peak time slots
-
-💳 5. Payment Methods
-
-Identified most popular payment options
-
-Helped understand customer preferences
-
-📊 8. Business Impact
-
-Improved understanding of peak demand periods
-
-Provided insights for better driver allocation
-
-Identified cancellation trends
-
-Supported operational decision-making
-
-Enhanced efficiency through data-driven planning
-
-🛠️ 9. Tools & Technologies
-Tool	Purpose
-Excel	Data Cleaning, Preprocessing, Pivot Analysis
-Power BI	Data Modeling, Interactive Dashboard Creation
+Ruchika Kumbhar
+Aspiring Data Scientist
+Excel | SQL | Power BI | Python
