@@ -24,6 +24,22 @@ Without structured analysis, it becomes difficult to:
 This project analyzes ride demand to understand **when bookings surge or drop**, enabling data-driven business decisions.
 
 ---
+Uber-Booking-Trends/
+│
+├── Data/
+│   ├── Raw_Uber_Data.xlsx
+│   ├── Cleaned_Uber_Data.xlsx
+│
+├── Dashboard/
+│   ├── Uber_Dashboard.xlsx
+│   ├── Uber_Dashboard.pbix
+│
+├── Images/
+│   ├── Dashboard_Overview.png
+│   ├── Booking_Trends.png
+│
+└── README.md
+---
 
 ## 📊 Dataset Overview
 
@@ -109,23 +125,21 @@ The dashboard allows users to explore booking trends dynamically.
 
 ---
 
-## 🗂️ Project Structure
 Uber-Booking-Trends/
 │
 ├── Data/
-│ ├── Raw_Uber_Data.xlsx
-│ ├── Cleaned_Uber_Data.xlsx
+│   ├── Raw_Uber_Data.xlsx
+│   ├── Cleaned_Uber_Data.xlsx
 │
 ├── Dashboard/
-│ ├── Uber_Dashboard.xlsx
-│ ├── Uber_Dashboard.pbix
+│   ├── Uber_Dashboard.xlsx
+│   ├── Uber_Dashboard.pbix
 │
 ├── Images/
-│ ├── Dashboard_Overview.png
-│ ├── Booking_Trends.png
+│   ├── Dashboard_Overview.png
+│   ├── Booking_Trends.png
 │
 └── README.md
-
 ---
 
 ## 🏗️ Project Workflow
