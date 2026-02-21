@@ -28,18 +28,17 @@ Uber-Booking-Trends/
 │
 ├── Data/
 │   ├── Raw_Uber_Data.xlsx
-│   ├── Cleaned_Uber_Data.xlsx
+│   └── Cleaned_Uber_Data.xlsx
 │
 ├── Dashboard/
 │   ├── Uber_Dashboard.xlsx
-│   ├── Uber_Dashboard.pbix
+│   └── Uber_Dashboard.pbix
 │
 ├── Images/
 │   ├── Dashboard_Overview.png
-│   ├── Booking_Trends.png
+│   └── Booking_Trends.png
 │
 └── README.md
----
 
 ## 📊 Dataset Overview
 
