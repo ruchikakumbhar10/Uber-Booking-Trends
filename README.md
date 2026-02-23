@@ -24,6 +24,7 @@ Without structured analysis, it becomes difficult to:
 This project analyzes ride demand to understand **when bookings surge or drop**, enabling data-driven business decisions.
 
 ---
+```
 Uber-Booking-Trends/
 │
 ├── Data/
@@ -39,7 +40,7 @@ Uber-Booking-Trends/
 │   └── Booking_Trends.png
 │
 └── README.md
-
+```
 ## 📊 Dataset Overview
 
 - Analyzed **10,000+ Uber ride records**
