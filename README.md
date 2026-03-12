@@ -72,7 +72,7 @@ This ensured reliable insights before dashboard creation.
 
 ## 📈 Dashboard & Visualization (Power BI)
 
-Developed **8+ interactive visuals**, including:
+Developed **8+ Interactive Visuals**, including:
 
 - KPI Cards (Total Rides, Completed Rides, Cancellations)
 - Booking Status Distribution
