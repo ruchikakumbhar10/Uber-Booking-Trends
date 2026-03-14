@@ -64,7 +64,7 @@ Performed structured Data Cleaning to ensure accuracy:
 - Standardized categorical values  
 - Created structured tables  
 - Used filters for validation  
-- Built Pivot Tables for summary analysis  
+- Built Pivot Tables for summary Analysis  
 
 This ensured reliable insights before dashboard creation.
 
