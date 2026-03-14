@@ -57,7 +57,7 @@ Uber-Booking-Trends/
 
 ## 🧹 Data Cleaning & Preparation (Excel)
 
-Performed structured data cleaning to ensure accuracy:
+Performed structured Data Cleaning to ensure accuracy:
 
 - Removed duplicate records  
 - Handled missing/null values  
