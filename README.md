@@ -149,5 +149,5 @@ Automated data refresh pipeline
 👩‍💻 Author
 
 Ruchika Kumbhar
-Aspiring Data Scientist
+DataAspiring Data Scientist
 Excel | SQL | Power BI | Python
