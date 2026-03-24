@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This Project Analyzes Uber Ride Booking Data to uncover booking patterns, Demand fluctuations, cancellation trends, and customer preferences.
+This Project Analyzes Uber Ride Booking Data to uncover booking patterns, Demand Fluctuations, cancellation trends, and customer preferences.
 
 Using **Excel for Data Cleaning** and **Power BI for Interactive Visualization**, the project transforms raw ride data into meaningful business insights that support operational Decision-Making.
 
