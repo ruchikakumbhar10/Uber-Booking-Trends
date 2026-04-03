@@ -144,7 +144,7 @@ Implement demand forecasting model
 
 Customer Segmentation Analysis
 
-Automated data refresh pipeline
+Automated Data refresh pipeline
 ---
 👩‍💻 Author
 
