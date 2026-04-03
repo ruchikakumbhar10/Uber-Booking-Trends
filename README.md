@@ -140,7 +140,7 @@ The dashboard allows users to explore booking trends dynamically.
 
 Add geographic demand heatmaps
 
-Implement Demand forecasting model
+Implement Demand Forecasting model
 
 Customer Segmentation Analysis
 
