@@ -142,7 +142,7 @@ Add geographic demand heatmaps
 
 Implement demand forecasting model
 
-Customer segmentation analysis
+Customer Segmentation analysis
 
 Automated data refresh pipeline
 ---
